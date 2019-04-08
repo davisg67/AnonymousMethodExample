@@ -1,0 +1,6 @@
+E:\Git-Repos\Testing\AnonymousMethodExample\AnonymousMethodExample\bin\Debug\AnonymousMethodExample.exe.config
+E:\Git-Repos\Testing\AnonymousMethodExample\AnonymousMethodExample\bin\Debug\AnonymousMethodExample.exe
+E:\Git-Repos\Testing\AnonymousMethodExample\AnonymousMethodExample\bin\Debug\AnonymousMethodExample.pdb
+E:\Git-Repos\Testing\AnonymousMethodExample\AnonymousMethodExample\obj\Debug\AnonymousMethodExample.csprojResolveAssemblyReference.cache
+E:\Git-Repos\Testing\AnonymousMethodExample\AnonymousMethodExample\obj\Debug\AnonymousMethodExample.exe
+E:\Git-Repos\Testing\AnonymousMethodExample\AnonymousMethodExample\obj\Debug\AnonymousMethodExample.pdb
